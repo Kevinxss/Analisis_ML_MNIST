@@ -1,6 +1,4 @@
 # Analisis_ML_MNIST
-# Analisis_ML_MNIST
-# Analisis_ML_MNIST
-# Analisis_ML_MNIST
-# Analisis_ML_MNIST
-# Analisis_ML_MNIST
+---
+_ version final .copia
+
